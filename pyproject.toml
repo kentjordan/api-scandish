@@ -12,5 +12,7 @@ dependencies = [
     "pillow>=11.2.1",
     "python-multipart>=0.0.20",
     "supabase>=2.15.0",
+    "torch>=2.7.0",
     "torchmetrics>=1.7.1",
+    "torchvision>=0.22.0",
 ]
